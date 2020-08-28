@@ -1,2 +1,0 @@
-# cyber.io
-Cybersecurity Portfolio/
